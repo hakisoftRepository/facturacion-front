@@ -56,7 +56,7 @@ v-model="model.password"
                 <div
                   class="oblique-image bg-cover position-absolute fixed-top ms-auto h-100 z-index-0 ms-n6"
                   style="
-                    background-image: url('/assets/img/curved-images/curved9.jpg');
+                    background-image: url('/assets/img/logo.jpg');
                   "
                 ></div>
               </div>
