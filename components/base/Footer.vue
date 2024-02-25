@@ -7,15 +7,14 @@
                   class="copyright text-center text-sm text-muted text-lg-start"
                 >
                   ©
-                 2022
-                  , made with <i class="fa fa-heart"></i> by
+                 2024
+                  , hecho con <i class="fa fa-heart"></i> por
                   <a
-                    href="#"
+                    href="https://www.hakisoft.com/"
                     class="font-weight-bold"
                     target="_blank"
-                    >Udemy</a
+                    >Hakisoft</a
                   >
-                  for a better web.
                 </div>
               </div>
               <div class="col-lg-6">

@@ -80,7 +80,7 @@
                 <input
                   type="text"
                   class="form-control"
-                  placeholder="Type here..."
+                  placeholder="Buscar.."
                 />
               </div>
             </div>

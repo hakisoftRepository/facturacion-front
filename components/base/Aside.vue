@@ -10,12 +10,11 @@
           id="iconSidenav"
         ></i>
         <a
-          class="navbar-brand m-0"
+          class="navbar-brand m-3"
           href="/"
      
         >
-
-          <span class="ms-1 font-weight-bold">Punto de venta</span>
+        <img src="../../static/assets/img/hackisoftlogo.png" >
         </a>
       </div>
       <hr class="horizontal dark mt-0" />
