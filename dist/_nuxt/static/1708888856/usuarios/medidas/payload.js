@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/usuarios/medidas", {data:[{}],fetch:{},mutations:void 0});
