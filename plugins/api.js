@@ -7,7 +7,7 @@ export default function ({ $axios }, inject) {
       }
     }
   })
-let url ='https://api-multimotosbello.hakisoft.com/api/'
+let url ='https://api-distribuidorazimbabue.hakisoft.com/api/'
   api.url = url
   api.setBaseURL(url)
 
